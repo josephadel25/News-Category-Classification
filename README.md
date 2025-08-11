@@ -45,10 +45,10 @@ Vectorizer: TF-IDF (max_features=5000)
 Accuracy: 90.75% 
 
 #  Confusion Matrix:
-![Confusion Matrix Screenshot](screenshoots/CM.png)
+![Confusion Matrix Screenshot](screenshots/CM.png)
 # Word Clouds:
 
-![Word Cloud Screenshot](screenshoots/word.png)
+![Word Cloud Screenshot](screenshots/word.png)
 
 ---
 
